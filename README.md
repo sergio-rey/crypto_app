@@ -1,5 +1,7 @@
 # crypto-app
 
+This is the project of prices and data of crypto coins @FaztTech 
+
 ## Project setup
 ```
 npm install
